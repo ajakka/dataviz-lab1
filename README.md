@@ -1,2 +1,3 @@
-# dataviz-lab1
+# Dataviz-lab1
+
 Lab 1 of data visualization using d3js
